@@ -1,3 +1,3 @@
-# Ê¹ÓÃ NodeJs ºÍ Vue.js ¹ÜÀíÁªÏµÈË
+# æŒ‰ç…§ä¸‹é¢çš„å‘½ä»¤å¯åŠ¨é¡¹ç›®
 npm install
 node app.js
